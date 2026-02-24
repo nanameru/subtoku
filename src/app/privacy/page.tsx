@@ -11,7 +11,7 @@ export default function PrivacyPage() {
 		<div className="min-h-screen flex flex-col">
 			<main className="flex-1 container mx-auto px-4 py-12 max-w-3xl prose prose-gray">
 				<h1>プライバシーポリシー</h1>
-				<p className="text-sm text-gray-500">最終更新日: 2026年2月24日</p>
+				<p className="text-sm text-gray-500">最終更新日: 2025年6月24日</p>
 
 				<h2>1. 収集する情報</h2>
 				<ul>
